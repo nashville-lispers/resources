@@ -22,6 +22,8 @@ Here's some Lisps to look into. (TODO: Add short descriptions)
 
 ## Tutorials
 
+* [Modern CLJS](https://github.com/magomimmo/modern-cljs)
+
 ## Podcasts
 
 * [Cognicast](http://blog.cognitect.com/cognicast/)
