@@ -5,7 +5,7 @@
 Here's some Lisps to look into. (TODO: Add short descriptions)
 
 * [Common Lisp](http://common-lisp.net/)
-* [SBLC](http://www.sbcl.org/)
+* [SBCL](http://www.sbcl.org/)
 * [Racket](http://racket-lang.org/)
 * [Guile](https://www.gnu.org/software/guile/)
 * [Chicken Scheme](http://www.call-cc.org/)
