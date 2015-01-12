@@ -24,6 +24,10 @@ Here's some Lisps to look into. (TODO: Add short descriptions)
 
 * [Modern CLJS](https://github.com/magomimmo/modern-cljs)
 
+## Screencasts
+
+* [Doing Computers is Creating](http://www.patreon.com/doingcomputers)
+
 ## Podcasts
 
 * [Cognicast](http://blog.cognitect.com/cognicast/)
