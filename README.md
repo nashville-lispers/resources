@@ -10,6 +10,7 @@ Here's some Lisps to look into. (TODO: Add short descriptions)
 * [Guile](https://www.gnu.org/software/guile/)
 * [Chicken Scheme](http://www.call-cc.org/)
 * [Clojure](http://clojure.org/)
+* [Lisp Flavored Erlang](http://lfe.io/)
 
 ## Books
 
